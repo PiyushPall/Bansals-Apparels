@@ -7,7 +7,7 @@
 
 <br />
 
-[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-OPEN_WEBSITE-73030D?style=for-the-badge&logoColor=white)](https://ais-pre-onllghjit74n4udqvevz5p-874841661966.asia-southeast1.run.app)
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-OPEN_WEBSITE-73030D?style=for-the-badge&logoColor=white)](bansals-apparels.vercel.app)
 [![Store Location](https://img.shields.io/badge/📍_GOOGLE_MAPS-BHAJANPURA_DELHI-0D0D0D?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Bansals+Apparel,+2/654/21,+Main+Market+Rd,+near+Bhajanpura,+Block+B,+Bhajanpura,+Tukhmirpur,+Delhi,+110053)
 [![WhatsApp Support](https://img.shields.io/badge/💬_WHATSAPP-INQUIRE_NOW-059669?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919773719071)
 
@@ -50,7 +50,7 @@ Designed with an editorial Indian heritage aesthetic (`#73030D` Crimson, `#732F3
 
 Click the button below to view the live deployed application:
 
-👉 **[Launch Live Website](https://ais-pre-onllghjit74n4udqvevz5p-874841661966.asia-southeast1.run.app)**
+👉 **[Launch Live Website](bansals-apparels.vercel.app)**
 
 ---
 
@@ -210,6 +210,5 @@ This project is engineered for local search visibility in **Bhajanpura, Tukhmirp
 <div align="center">
 
 **Designed & Developed for Bansals Apparel, Bhajanpura, Delhi**  
-[![Live Demo](https://img.shields.io/badge/🌐_Visit_Live_Website-Bansals_Apparel-73030D?style=for-the-badge)](https://ais-pre-onllghjit74n4udqvevz5p-874841661966.asia-southeast1.run.app)
-
+[![Live Demo](https://img.shields.io/badge/🌐_Visit_Live_Website-Bansals_Apparel-73030D?style=for-the-badge)](bansals-apparels.vercel.app)
 </div>
