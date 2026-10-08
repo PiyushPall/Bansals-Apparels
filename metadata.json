@@ -1,0 +1,6 @@
+{
+  "name": "Bansals Apparel",
+  "description": "Best family clothing store in Bhajanpura, Delhi. Complete family shopping for Men, Women, Kids, and Cosmetics near Tukhmirpur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
